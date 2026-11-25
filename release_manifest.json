@@ -1,0 +1,18 @@
+{
+ "version": "v1.1",
+ "date": "2026-11-25",
+ "game": "No More Heroes 2 - Desperate Struggle (Japan) / RUYJ99 / Wii (ISO)",
+ "asset": "NMH2_DS_Wii_KO_v1.1.xdelta",
+ "asset_size": 985079818,
+ "asset_sha256": "60b215786da8bebcee458fcaf73a856c4715f70f7155e79251ab6a0544a0916b",
+ "xdelta_options": "xdelta3 -e -0 (no compression)",
+ "source_iso_size": 4699979776,
+ "source_iso_md5": "13fd4439188415d47919c7875e5e2349",
+ "source_iso_sha1": "769494e3db6390bfe605089ffb03f3ec43a6e2aa",
+ "source_iso_sha256": "88c5e748718af6636f97d18097951bb3900095a377ef38f9e65fd122a29a4dd9",
+ "source_rvz_md5": "707f91af8c9dbbee1a2b7d22d7435a31",
+ "output_iso_size": 4699979776,
+ "output_iso_md5": "161c41f3e64066524352f8cf98ce2378",
+ "output_iso_sha1": "52130bd6e4b423a0edf1034358127259e092aef2",
+ "output_iso_sha256": "cf80c025b96c9aab7bb466f19ac05c0231d7b2acd0398985ebf2ca7e11038d8e"
+}
